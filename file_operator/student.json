@@ -1,0 +1,912 @@
+[
+  {
+    "cid": 277081682,
+    "page": 1,
+    "from": "vupload",
+    "part": "1.\u5bfc\u5b66",
+    "duration": 765,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277084288,
+    "page": 2,
+    "from": "vupload",
+    "part": "2.\u7b80\u5355\u53e5-\u82f1\u8bed\u53e5\u5b50\u7684\u57fa\u672c\u7ed3\u6784",
+    "duration": 988,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277093433,
+    "page": 3,
+    "from": "vupload",
+    "part": "3.\u7b80\u5355\u53e5-\u53e5\u5b50\u7684\u6210\u5206-\u8c13\u8bed",
+    "duration": 1991,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277110159,
+    "page": 4,
+    "from": "vupload",
+    "part": "4.\u7ec3\u4e60",
+    "duration": 2733,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277103911,
+    "page": 5,
+    "from": "vupload",
+    "part": "5.\u53e5\u5b50\u7684\u6210\u5206-\u4e3b\u8bed",
+    "duration": 2518,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277103561,
+    "page": 6,
+    "from": "vupload",
+    "part": "6.\u7b80\u5355\u53e5-\u53e5\u5b50\u7684\u6210\u5206-\u5bbe\u8bed\u8868\u8bed",
+    "duration": 828,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277103554,
+    "page": 7,
+    "from": "vupload",
+    "part": "7.\u7b80\u5355\u53e5-\u8003\u70b9\u5206\u6790-\u5199\u4f5c\u4e2d\u7684\u4f7f\u7528",
+    "duration": 814,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277103802,
+    "page": 8,
+    "from": "vupload",
+    "part": "8.\u7b80\u5355\u53e5-\u8003\u70b9\u5206\u6790-\u957f\u96be\u53e5\u5206\u6790",
+    "duration": 1447,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277109871,
+    "page": 9,
+    "from": "vupload",
+    "part": "9.\u5e76\u5217\u53e5-\u5e76\u5217\u8fde\u8bcd",
+    "duration": 591,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277103579,
+    "page": 10,
+    "from": "vupload",
+    "part": "10.\u5e76\u5217\u53e5-\u5e76\u5217\u8fde\u8bcd\u5728\u5199\u4f5c\u4e2d\u7684\u4f7f\u7528",
+    "duration": 697,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277103797,
+    "page": 11,
+    "from": "vupload",
+    "part": "11.\u5e76\u5217\u53e5-\u903b\u8f91\u5173\u7cfb\u8bcd\u53ca\u5176\u4f7f\u7528",
+    "duration": 728,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277107549,
+    "page": 12,
+    "from": "vupload",
+    "part": "12.\u5e76\u5217\u53e5-\u8003\u70b9\u5206\u6790-\u5199\u4f5c\u4e2d\u7684\u4f7f\u7528",
+    "duration": 1092,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277107493,
+    "page": 13,
+    "from": "vupload",
+    "part": "13.\u5e76\u5217\u53e5-\u8003\u70b9\u5206\u6790-\u5b8c\u5f62\u4e2d\u7684\u4f7f\u7528",
+    "duration": 673,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277127113,
+    "page": 14,
+    "from": "vupload",
+    "part": "14",
+    "duration": 2160,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277116298,
+    "page": 15,
+    "from": "vupload",
+    "part": "15",
+    "duration": 2628,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277114040,
+    "page": 16,
+    "from": "vupload",
+    "part": "16.\u5e76\u5217\u53e5-\u8003\u70b9\u5206\u6790-\u957f\u96be\u53e5\u5206\u67903",
+    "duration": 1854,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277114018,
+    "page": 17,
+    "from": "vupload",
+    "part": "17",
+    "duration": 1299,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277114488,
+    "page": 18,
+    "from": "vupload",
+    "part": "18.\u540d\u8bcd\u6027\u4ece\u53e5-\u4ec0\u4e48\u662f\u540d\u8bcd\u6027\u4ece\u53e5",
+    "duration": 594,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277123717,
+    "page": 19,
+    "from": "vupload",
+    "part": "19.\u540d\u8bcd\u6027\u4ece\u53e5-\u540d\u8bcd\u6027\u4ece\u53e5\u7684\u5f15\u5bfc\u8bcd1",
+    "duration": 1695,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277130827,
+    "page": 20,
+    "from": "vupload",
+    "part": "20.\u540d\u8bcd\u6027\u4ece\u53e5-\u540d\u8bcd\u6027\u4ece\u53e5\u7684\u5f15\u5bfc\u8bcd2",
+    "duration": 1243,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277124828,
+    "page": 21,
+    "from": "vupload",
+    "part": "21.\u540d\u8bcd\u6027\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u5199\u4f5c\u4e2d\u7684\u4f7f\u7528",
+    "duration": 2279,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277134585,
+    "page": 22,
+    "from": "vupload",
+    "part": "22.\u540d\u8bcd\u6027\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u957f\u96be\u53e5\u5206\u6790-\u8bc6\u522b\u4e3b\u4ece1",
+    "duration": 1375,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277126742,
+    "page": 23,
+    "from": "vupload",
+    "part": "23.\u540d\u8bcd\u6027\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u957f\u96be\u53e5\u5206\u6790-\u8bc6\u522b\u4e3b\u4ece2",
+    "duration": 2876,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277128734,
+    "page": 24,
+    "from": "vupload",
+    "part": "24.\u540d\u8bcd\u6027\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u957f\u96be\u53e5\u5206\u6790-\u8bc6\u522b\u5bbe\u4ece",
+    "duration": 2310,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277132994,
+    "page": 25,
+    "from": "vupload",
+    "part": "25.\u540d\u8bcd\u6027\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u957f\u96be\u53e5\u5206\u6790-\u8bc6\u522b\u8868\u4ece",
+    "duration": 809,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277136574,
+    "page": 26,
+    "from": "vupload",
+    "part": "26.\u540d\u8bcd\u6027\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u957f\u96be\u53e5\u5206\u6790-\u8bc6\u522b\u540c\u4f4d\u4ece",
+    "duration": 1157,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277342473,
+    "page": 27,
+    "from": "vupload",
+    "part": "27.\u5b9a\u8bed\u4ece\u53e5-\u4ec0\u4e48\u662f\u5b9a\u8bed\u53ca\u5b9a\u8bed\u7684\u6210\u5206",
+    "duration": 1740,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277135995,
+    "page": 28,
+    "from": "vupload",
+    "part": "28.\u5b9a\u8bed\u4ece\u53e5-\u5b9a\u8bed\u7684\u4f4d\u7f6e",
+    "duration": 759,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277139800,
+    "page": 29,
+    "from": "vupload",
+    "part": "29.\u5b9a\u8bed\u4ece\u53e5-\u5b9a\u8bed\u4ece\u53e5",
+    "duration": 2391,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277138847,
+    "page": 30,
+    "from": "vupload",
+    "part": "30.\u5b9a\u8bed\u4ece\u53e5-\u5b9a\u8bed\u4ece\u53e5\u7684\u7ec3\u4e60-1",
+    "duration": 1211,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277342662,
+    "page": 31,
+    "from": "vupload",
+    "part": "31.\u5b9a\u8bed\u4ece\u53e5-\u5b9a\u8bed\u4ece\u53e5\u7684\u7ec3\u4e60-2",
+    "duration": 1849,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277342639,
+    "page": 32,
+    "from": "vupload",
+    "part": "32.\u5b9a\u8bed\u4ece\u53e5-\u5b9a\u8bed\u4ece\u53e5\u7684\u7279\u6b8a\u7528\u6cd5",
+    "duration": 1453,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277342725,
+    "page": 33,
+    "from": "vupload",
+    "part": "33.\u5b9a\u8bed\u4ece\u53e5-\u533a\u5206\u5b9a\u8bed\u4ece\u53e5\u548c\u540c\u4f4d\u8bed\u4ece\u53e5",
+    "duration": 1411,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277342708,
+    "page": 34,
+    "from": "vupload",
+    "part": "34.\u5b9a\u8bed\u4ece\u53e5-\u5b9a\u8bed\u4ece\u53e5\u7684\u81f3\u96be\u70b9",
+    "duration": 1071,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277343008,
+    "page": 35,
+    "from": "vupload",
+    "part": "35.\u5b9a\u8bed\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u5199\u4f5c\u4e2d\u7684\u4f7f\u7528",
+    "duration": 1118,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277343336,
+    "page": 36,
+    "from": "vupload",
+    "part": "36.\u5b9a\u8bed\u4ece\u53e5-\u82f1\u6c49\u5dee\u5f02\u5bf9\u6bd4",
+    "duration": 1577,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277343332,
+    "page": 37,
+    "from": "vupload",
+    "part": "37.\u5b9a\u8bed\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u957f\u96be\u53e5\u5206\u6790-1",
+    "duration": 1505,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277343486,
+    "page": 38,
+    "from": "vupload",
+    "part": "38.\u5b9a\u8bed\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u957f\u96be\u53e5\u5206\u6790-2",
+    "duration": 1516,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277343780,
+    "page": 39,
+    "from": "vupload",
+    "part": "39.\u5b9a\u8bed\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u957f\u96be\u53e5\u5206\u6790-3",
+    "duration": 2844,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277343203,
+    "page": 40,
+    "from": "vupload",
+    "part": "40.\u72b6\u8bed\u4ece\u53e5-\u5f62\u5bb9\u8bcd\u548c\u526f\u8bcd\u7684\u6210\u5206",
+    "duration": 409,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277343651,
+    "page": 41,
+    "from": "vupload",
+    "part": "41.\u72b6\u8bed\u4ece\u53e5-\u4ec0\u4e48\u662f\u72b6\u8bed",
+    "duration": 611,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277343992,
+    "page": 42,
+    "from": "vupload",
+    "part": "42.\u72b6\u8bed\u4ece\u53e5-\u65f6\u95f4\u72b6\u8bed\u4ece\u53e5",
+    "duration": 1723,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277343626,
+    "page": 43,
+    "from": "vupload",
+    "part": "43.\u72b6\u8bed\u4ece\u53e5-\u5730\u70b9\u548c\u539f\u56e0\u72b6\u8bed\u4ece\u53e5",
+    "duration": 629,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277343726,
+    "page": 44,
+    "from": "vupload",
+    "part": "44.\u72b6\u8bed\u4ece\u53e5-\u76ee\u7684\u72b6\u8bed\u4ece\u53e5",
+    "duration": 414,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277343795,
+    "page": 45,
+    "from": "vupload",
+    "part": "45.\u72b6\u8bed\u4ece\u53e5-\u7ed3\u679c\u72b6\u8bed\u4ece\u53e5",
+    "duration": 691,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277344183,
+    "page": 46,
+    "from": "vupload",
+    "part": "46.\u72b6\u8bed\u4ece\u53e5-\u8ba9\u6b65\u72b6\u8bed\u4ece\u53e5",
+    "duration": 1676,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277344012,
+    "page": 47,
+    "from": "vupload",
+    "part": "47.\u72b6\u8bed\u4ece\u53e5-\u65b9\u5f0f\uff0c\u6761\u4ef6\u548c\u6bd4\u8f83\u72b6\u8bed\u4ece\u53e5",
+    "duration": 786,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277344057,
+    "page": 48,
+    "from": "vupload",
+    "part": "48.\u72b6\u8bed\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u5199\u4f5c\u4e2d\u7684\u4f7f\u7528",
+    "duration": 785,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277344438,
+    "page": 49,
+    "from": "vupload",
+    "part": "49.\u72b6\u8bed\u4ece\u53e5-\u8003\u70b9\u5206\u6790-\u957f\u96be\u53e5\u5206\u6790-1",
+    "duration": 1481,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277344839,
+    "page": 50,
+    "from": "vupload",
+    "part": "50",
+    "duration": 2256,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277344530,
+    "page": 51,
+    "from": "vupload",
+    "part": "51\u72b6\u8bed\u4ece\u53e5-\u53e5\u5b50\u6240\u6709\u6210\u5206\u5927\u603b\u7ed3-1",
+    "duration": 1477,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277344790,
+    "page": 52,
+    "from": "vupload",
+    "part": "52\u72b6\u8bed\u4ece\u53e5-\u53e5\u5b50\u6240\u6709\u6210\u5206\u5927\u603b\u7ed3-2",
+    "duration": 2497,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277344743,
+    "page": 53,
+    "from": "vupload",
+    "part": "53\u72b6\u8bed\u4ece\u53e5-\u6bd4\u8f83\u7ed3\u6784\u7279\u6b8a\u7528\u6cd5-as\u4e13\u9898",
+    "duration": 2009,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277344682,
+    "page": 54,
+    "from": "vupload",
+    "part": "54\u72b6\u8bed\u4ece\u53e5-\u6bd4\u8f83\u7ed3\u6784\u7279\u6b8a\u7528\u6cd5-than",
+    "duration": 739,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277344794,
+    "page": 55,
+    "from": "vupload",
+    "part": "55\u7efc\u5408\u7ec3\u4e60",
+    "duration": 1154,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277347387,
+    "page": 56,
+    "from": "vupload",
+    "part": "56\u7279\u6b8a\u7ed3\u6784-\u5f3a\u8c03\u53e5\u578b-\u5f3a\u8c03\u53e5\u578b\u7684\u6784\u6210",
+    "duration": 801,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277345146,
+    "page": 57,
+    "from": "vupload",
+    "part": "57\u7279\u6b8a\u7ed3\u6784-\u5f3a\u8c03\u53e5\u578b-\u5f3a\u8c03\u53e5\u578b\u8003\u70b9\u5206\u6790",
+    "duration": 1611,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277345270,
+    "page": 58,
+    "from": "vupload",
+    "part": "58\u7279\u6b8a\u7ed3\u6784-\u5012\u88c5\u53e5\u578b-\u5012\u88c5\u53e5\u578b\u7684\u7528\u6cd5",
+    "duration": 1953,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277345198,
+    "page": 59,
+    "from": "vupload",
+    "part": "59\u7279\u6b8a\u7ed3\u6784-\u5012\u88c5\u53e5\u578b-\u5012\u88c5\u53e5\u578b\u8003\u70b9\u5206\u6790)",
+    "duration": 1514,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277345140,
+    "page": 60,
+    "from": "vupload",
+    "part": "60\u7279\u6b8a\u7ed3\u6784-\u865a\u62df\u8bed\u6c14-\u4e00\u822c\u7528\u6cd5-1",
+    "duration": 1152,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277345355,
+    "page": 61,
+    "from": "vupload",
+    "part": "61\u7279\u6b8a\u7ed3\u6784-\u865a\u62df\u8bed\u6c14-\u4e00\u822c\u7528\u6cd5-2",
+    "duration": 673,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277345564,
+    "page": 62,
+    "from": "vupload",
+    "part": "62",
+    "duration": 1685,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277345367,
+    "page": 63,
+    "from": "vupload",
+    "part": "63\u7279\u6b8a\u7ed3\u6784-\u865a\u62df\u8bed\u6c14-\u8003\u70b9\u5206\u6790",
+    "duration": 609,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277345615,
+    "page": 64,
+    "from": "vupload",
+    "part": "64",
+    "duration": 1554,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  },
+  {
+    "cid": 277345535,
+    "page": 65,
+    "from": "vupload",
+    "part": "65\u8bfe\u540e\u590d\u4e60\u5b89\u6392",
+    "duration": 866,
+    "vid": "",
+    "weblink": "",
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    }
+  }
+]
